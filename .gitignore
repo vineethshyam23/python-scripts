@@ -1,6 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
+.venv/
+scripts/package_from_trash.py
 *.pem
 *.key
-.env
 config
